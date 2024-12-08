@@ -1,0 +1,84 @@
+#active{
+    border: 2px solid black;
+    border-radius:50%;
+    padding: 5px;
+    height: 15px;
+    width: 10px;
+    background-color: rgb(71, 255, 47);
+}
+#inActive{
+    border: 2px solid black;
+    border-radius:50%;
+    padding: 5px;
+    height: 15px;
+    width: 10px;
+}
+#checkbox{
+    display: none;
+}
+.card-img-top{
+    width: 250px;
+    height: 200px;
+}
+.card{
+    width: 20rem;
+    padding: 10px;
+    margin: 10px;
+}
+#card1{
+    background-image: url(https://t3.ftcdn.net/jpg/02/92/90/56/360_F_292905667_yFUJNJPngYeRNlrRL4hApHWxuYyRY4kN.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+#card2{
+    padding-bottom: 20px; 
+}
+#bgm{
+    margin-top: 20px;
+    padding: 120px;
+    box-shadow: 0 0 20px rgb(0, 136, 255);
+}
+#space{
+    margin-top:1px;
+}
+#heading{
+    text-align: center;
+    color: blueviolet;
+}
+.dark{
+    background-color: black;
+    color: white !important;
+}
+.light{
+    background-color: white;
+    color: black !important;
+}
+
+#Answer{
+    color:brown;
+    text-align: center;
+    text-transform: lowercase;
+    border: 1px solid rgb(50, 45, 45);
+    border-radius: 10px;
+}
+#question{
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+h5{
+    margin-bottom: 5px;
+    color: blueviolet;
+}
+
+#in{
+    width: 50px;
+    height: 50px;
+}
+marquee{
+    color: tomato;
+}
